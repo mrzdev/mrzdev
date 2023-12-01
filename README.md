@@ -39,6 +39,17 @@
 </p>    
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 1,337 hrs 47 mins
+
+Python             993 hrs 43 mins >>>>>>>>>>>>>>>>>>>------   74.28 %
+C++                159 hrs 9 mins  >>>----------------------   11.90 %
+JSON               84 hrs 52 mins  >>-----------------------   06.34 %
+Cuda               45 hrs 29 mins  >------------------------   03.40 %
+textmate           17 hrs 56 mins  -------------------------   01.34 %
+```
+
 <!--END_SECTION:waka-->    
 
 <br/>
