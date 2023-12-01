@@ -31,12 +31,15 @@
 <br style="clear:both"/>
 
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; My Coding Stats
 
 <p align="left"> 
 <img alt="so" src="https://github-readme-streak-stats.herokuapp.com/?user=mrzdev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"/>&nbsp;
 <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzdev&layout=compact&theme=dark&hide_border=true"/>&nbsp;
-</p>
+</p>    
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->    
 
 <br/>
 
