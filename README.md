@@ -56,6 +56,9 @@ JSON               100 hrs 15 mins >------------------------   03.56 %
   <a href="https://stepik.org/cert/2114932?lang=en">
     <img alt="Data Structures Course" src="https://img.shields.io/badge/Stepik-Data%20Structures-blue.svg"/>&nbsp;
   </a>
+  <a href="https://stepik.org/cert/2312498?lang=en">
+    <img alt="Intro. to Comp. Sci. & OOP: Python" src="https://img.shields.io/badge/Stepik-Intro.%20to%20Comp.%20Sci.%20&%20OOP:%20Python-blue.svg"/>&nbsp;
+  </a>
 </p>
 
 ## 📫 How to reach me
