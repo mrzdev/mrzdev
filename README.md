@@ -63,6 +63,9 @@ JSON               100 hrs 15 mins >------------------------   03.56 %
 
 ## 📫 How to reach me
 <p align='center'>
+      <a href="mailto:mr85291@stud.uph.edu.pl?">
+        <img alt="Gmail Contact" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>&nbsp;
     <a href="https://discordapp.com/users/210484897628946432">
     <img alt="Discord Contact" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>&nbsp;
