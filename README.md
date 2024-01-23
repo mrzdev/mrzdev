@@ -13,7 +13,7 @@
 
 ## Technology stack that I know and/or use:
 ### **Languages**
-![Languages](https://skillicons.dev/icons?i=python,javascript,julia,go,cpp,bash,powershell&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,julia,go,cpp,bash,powershell&theme=dark)
 ### **Frameworks**
 ![Frameworks](https://skillicons.dev/icons?i=fastapi,django,flask,electron,nodejs,bootstrap,semanticui&theme=dark)
 ### **Platforms**
