@@ -56,7 +56,10 @@ JSON               100 hrs 15 mins >------------------------   03.40 %
     <img alt="Data Structures Course" src="https://img.shields.io/badge/Stepik-Data%20Structures-blue.svg"/>&nbsp;
   </a>
   <a href="https://stepik.org/cert/2312498?lang=en">
-    <img alt="Intro. to Comp. Sci. & OOP: Python" src="https://img.shields.io/badge/Stepik-Intro.%20to%20Comp.%20Sci.%20&%20OOP:%20Python-blue.svg"/>&nbsp;
+    <img alt="Intro. to Comp. Sci. & OOP: Python Course" src="https://img.shields.io/badge/Stepik-Intro.%20to%20Comp.%20Sci.%20&%20OOP:%20Python-blue.svg"/>&nbsp;
+  </a>
+  <a href="https://university.redis.com/certificates/341bceb6834247ce9f13e51daff28fbf">
+    <img alt="Redis University RU101 Course" src="https://img.shields.io/badge/Redis%20University-RU101-red.svg"/>&nbsp;
   </a>
 </p>
 
