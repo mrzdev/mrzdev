@@ -65,7 +65,7 @@ C++                201 hrs 31 mins >------------------------   04.86 %
 
 ## 📫 How to reach me
 <p align='center'>
-      <a href="mailto:mr85291@stud.uph.edu.pl?">
+      <a href="mailto:zeoykteon@mozmail.com">
         <img alt="Gmail Contact" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>&nbsp;
     <a href="https://discordapp.com/users/210484897628946432">
