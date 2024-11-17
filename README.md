@@ -61,6 +61,9 @@ C++                201 hrs 31 mins >------------------------   04.83 %
   <a href="https://university.redis.com/certificates/341bceb6834247ce9f13e51daff28fbf">
     <img alt="Redis University RU101 Course" src="https://img.shields.io/badge/Redis%20University-RU101-red.svg"/>&nbsp;
   </a>
+  <a href="https://cs50.harvard.edu/certificates/d2c191b9-545f-43b3-ac74-79a192d35e2e">
+    <img alt="Harvard University CS50x 2024 Course" src="https://img.shields.io/badge/Harvard%20University-CS50x%202024-yellow.svg"/>&nbsp;
+  </a>
 </p>
 
 ## 📫 How to reach me
