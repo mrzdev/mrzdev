@@ -52,17 +52,17 @@ C++                201 hrs 31 mins >------------------------   04.83 %
 ## 🌱 Certificates
 
 <p align='center'>
+  <a href="https://cs50.harvard.edu/certificates/d2c191b9-545f-43b3-ac74-79a192d35e2e">
+    <img alt="Harvard University CS50x 2024 Course" src="https://img.shields.io/badge/Harvard%20University-CS50x%202024-yellow.svg"/>&nbsp;
+  </a>
+  <a href="https://university.redis.io/s3/feed/files/fj-file-uploads/vpynpvhtv3trg0-certificates-14q8m6gilfwltm.pdf">
+    <img alt="Redis University RU101 Course" src="https://img.shields.io/badge/Redis%20University-RU101-red.svg"/>&nbsp;
+  </a>
   <a href="https://stepik.org/cert/2114932?lang=en">
     <img alt="Data Structures Course" src="https://img.shields.io/badge/Stepik-Data%20Structures-blue.svg"/>&nbsp;
   </a>
   <a href="https://stepik.org/cert/2312498?lang=en">
     <img alt="Intro. to Comp. Sci. & OOP: Python Course" src="https://img.shields.io/badge/Stepik-Intro.%20to%20Comp.%20Sci.%20&%20OOP:%20Python-blue.svg"/>&nbsp;
-  </a>
-  <a href="https://university.redis.com/certificates/341bceb6834247ce9f13e51daff28fbf">
-    <img alt="Redis University RU101 Course" src="https://img.shields.io/badge/Redis%20University-RU101-red.svg"/>&nbsp;
-  </a>
-  <a href="https://cs50.harvard.edu/certificates/d2c191b9-545f-43b3-ac74-79a192d35e2e">
-    <img alt="Harvard University CS50x 2024 Course" src="https://img.shields.io/badge/Harvard%20University-CS50x%202024-yellow.svg"/>&nbsp;
   </a>
 </p>
 
