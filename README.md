@@ -25,8 +25,8 @@
 ## &#x1f4c8; My Coding Stats
 
 ### GitHub
-<p align="left"> 
-<img alt="so" src="https://github-readme-streak-stats.herokuapp.com/?user=mrzdev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"/>&nbsp;
+<p align="left">
+<img alt="so" src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=mrzdev&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=daily"/>&nbsp;
 <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzdev&layout=compact&theme=dark&hide_border=true"/>&nbsp;
 </p>    
 
