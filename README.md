@@ -78,7 +78,3 @@ C++                201 hrs 51 mins >------------------------   03.71 %
     <img alt="Telegram Contact" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>&nbsp;
 </p>
-
-&nbsp;<div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=michalello&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
