@@ -33,6 +33,9 @@
 ### Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mrzdev?theme=nord&extension=activity)](https://leetcode.com/mrzdev)    
 
+### Duolingo
+[![Duolingo](https://duolingo-stats-card.vercel.app/api?username=michalsienazywam)](https://duolingo-stats-card.vercel.app/api?username=michalsienazywam)    
+
 ### Wakatime
 <!--START_SECTION:waka-->
 
