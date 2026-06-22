@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6,786 hrs 17 mins
+Total Time: 6,787 hrs 54 mins
 
-Python             2,641 hrs 40 mins     >>>>>>>>>>---------------   38.93 %
+Python             2,643 hrs 17 mins     >>>>>>>>>>---------------   38.94 %
 Other              2,369 hrs 22 mins     >>>>>>>>>----------------   34.91 %
 JavaScript         619 hrs 49 mins       >>-----------------------   09.13 %
 Go                 499 hrs 35 mins       >>-----------------------   07.36 %
-C++                205 hrs 59 mins       >------------------------   03.04 %
+C++                205 hrs 59 mins       >------------------------   03.03 %
 ```
 
 <!--END_SECTION:waka-->    
