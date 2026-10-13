@@ -39,6 +39,7 @@
 </p>
 
 ### Leetcode & Duolingo
+
 <p align="left">
   <a href="https://leetcode.com/mrzdev">
     <img src="https://www.readmecodegen.com/api/leetcode-stats?username=mrzdev&theme=tokyonight" alt="LeetCode Stats" />
