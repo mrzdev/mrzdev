@@ -38,13 +38,15 @@
   </a>
 </p>
 
-### Leetcode & Duolingo
-
+### Leetcode
 <p align="left">
   <a href="https://leetcode.com/mrzdev">
     <img src="https://www.readmecodegen.com/api/leetcode-stats?username=mrzdev&theme=tokyonight" alt="LeetCode Stats" />
   </a>
-  &nbsp;&nbsp;
+</p>
+
+### Duolingo
+<p align="left">
   <a href="https://www.duolingo.com/profile/michalsienazywam?via=share_profile_qr">
     <img src="https://duolingo-stats-card.vercel.app/api?username=michalsienazywam&theme=tokyonight" alt="Duolingo Stats" />
   </a>
