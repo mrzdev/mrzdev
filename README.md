@@ -25,31 +25,17 @@
 ## &#x1f4c8; My Coding Stats
 
 ### GitHub
-<p align="left">
-<img alt="so" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=mrzdev&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=daily"/>&nbsp;
-<img alt="Top Langs" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrzdev&layout=compact&theme=dark&hide_border=true"/>&nbsp;
-</p>    
-
-### Leetcode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mrzdev?theme=nord&extension=activity)](https://leetcode.com/mrzdev)    
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mrzdev&rank_icon=github&custom_title=GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ### Duolingo
-[![Duolingo](https://duolingo-stats-card.vercel.app/api?username=michalsienazywam)](https://duolingo-stats-card.vercel.app/api?username=michalsienazywam)    
+[![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=michalsienazywam&theme=tokyonight)](https://www.duolingo.com/profile/michalsienazywam?via=share_profile_qr)
+
+### Leetcode
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=mrzdev&theme=tokyonight)](https://leetcode.com/mrzdev)
 
 ### Wakatime
-<!--START_SECTION:waka-->
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrzdev&theme=tokyonight&show_icons=true)](https://wakatime.com/@mrzdev)
 
-```txt
-Total Time: 7,026 hrs 34 mins
-
-Python             2,876 hrs 30 mins     >>>>>>>>>>---------------   40.94 %
-Other              2,369 hrs 22 mins     >>>>>>>>-----------------   33.72 %
-JavaScript         619 hrs 49 mins       >>-----------------------   08.82 %
-Go                 499 hrs 35 mins       >>-----------------------   07.11 %
-C++                205 hrs 59 mins       >------------------------   02.93 %
-```
-
-<!--END_SECTION:waka-->    
 <br/>
 
 ## 🌱 Certificates
