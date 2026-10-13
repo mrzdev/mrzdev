@@ -19,22 +19,35 @@
 ### **Platforms**
 ![Platforms](https://skillicons.dev/icons?i=docker,heroku,gcp,linux&theme=dark)
 ### **Databases and others**
-![Others](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,vscode,git,github,githubactions,tensorflow,nginx,wordpress,postman,selenium,css&theme=dark)
+![Others](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,vscode,git,github,githubactions,tensorflow,nginx,wordpress,postman,selenium,css&theme=dark&perline=8)
 <br style="clear:both"/>
 
-## &#x1f4c8; My Coding Stats
+## 📈 My Coding Stats
 
 ### GitHub
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mrzdev&rank_icon=github&custom_title=GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
-
-### Duolingo
-[![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=michalsienazywam&theme=tokyonight)](https://www.duolingo.com/profile/michalsienazywam?via=share_profile_qr)
-
-### Leetcode
-[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=mrzdev&theme=tokyonight)](https://leetcode.com/mrzdev)
+<p align="left">
+  <a href="https://github.com/mrzdev">
+    <img src="https://github-stats-extended.vercel.app/api?username=mrzdev&rank_icon=github&custom_title=GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+</p>
 
 ### Wakatime
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrzdev&theme=tokyonight&show_icons=true)](https://wakatime.com/@mrzdev)
+<p align="left">
+  <a href="https://wakatime.com/@mrzdev">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrzdev&theme=tokyonight&show_icons=true" alt="Wakatime stats" />
+  </a>
+</p>
+
+### Leetcode & Duolingo
+<p align="left">
+  <a href="https://leetcode.com/mrzdev">
+    <img src="https://www.readmecodegen.com/api/leetcode-stats?username=mrzdev&theme=tokyonight" alt="LeetCode Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.duolingo.com/profile/michalsienazywam?via=share_profile_qr">
+    <img src="https://duolingo-stats-card.vercel.app/api?username=michalsienazywam&theme=tokyonight" alt="Duolingo Stats" />
+  </a>
+</p>
 
 <br/>
 
